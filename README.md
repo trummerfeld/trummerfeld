@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @trummerfeld
-- 👀 I’m interested in JS/TS, Rust, Go
-- 🌱 I’m currently learning [PlayStation 1 SDK](https://github.com/Lameguy64/PSn00bSDK), [Qiskit](https://qiskit.org) (Quantum Development, lot's of stuff to learn here..), Protobuffs and Steam Remote controlls
+- 👋 Hi, I’m @trummerfeld, Tech Enthusiast from Berlin
+- 🌱 I’m currently learning [Programming with Rust](https://www.rust-lang.org), [PlayStation 1 SDK](https://github.com/Lameguy64/PSn00bSDK), [Qiskit](https://qiskit.org) (lot's of stuff to learn here..), Protobuffs and Steam Remote Controlls
 
 <!---
 trummerfeld/trummerfeld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
